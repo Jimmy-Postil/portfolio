@@ -1,0 +1,45 @@
+body{
+    margin: auto;
+    overflow-x: hidden;
+}
+
+/*------header------*/
+
+.container-fluid{
+    background-color: #000;
+}
+
+.name{
+    color: white;
+}
+
+.nav{
+    color: white;
+}
+
+.navbar-nav{
+    font-size: 1.3em;
+}
+
+#navbarContent{
+    justify-content: flex-end;
+}
+
+/*---------caroussel--------*/
+
+.hobbies-vtt{
+    width: auto;
+    height: 80vh;
+    margin-left: 100px;
+    border: 1px solid black;
+    border: none;
+    border-radius: 10px;
+}
+
+.img-profil{
+    width: 30%;
+}
+
+.border-bottom{
+    border-bottom: 10px solid red;
+}
